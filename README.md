@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beailustdream&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beailustdream&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="195" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beailustdream&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=blueberry&hide_border=false" height="198" alt="languages graph"  />
 </div>
 
@@ -52,12 +52,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beailustdream.beailustdream&left_color=darkblue"  />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beailustdream/beailustdream/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beailustdream/beailustdream/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beailustdream/beailustdream/output/pacman-contribution-graph.svg">
-</picture>
 
 ###

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Beatriz 👋</h1>
-<h3 align="center">Computer Science Student | Python Developer | Future Software Engineer</h3>
+<h3 align="center">Computer Science Student | Python Developer | Future Software Engineer and Cybersecurity</h3>
 
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTSo7IbLFf8MvAH_Zq9j2voC4xYaSWwtezPPPC4kBx4Upy5WO0k6G2u6r69enpj1EUoi2smkZxIESMS-LX07ofsl8OPmzHC48ZUpx4PFlRSZ97NQ-OlXcTQLPJN0rPHxLKiwfT01hZyjY/s1600/7f.gif" height="190" />
@@ -80,5 +80,5 @@
 <div align="center">
 ✨ Thanks for visiting my profile ✨
 </div>
-```
+
 
